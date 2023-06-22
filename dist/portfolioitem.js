@@ -6,44 +6,34 @@ var portfolioItems = [
         imageSrc: "assets/img/portfolio/shut_the_box.gif"
     },
     {
-        keywords: ["dumbells", "exertion", "prediction", "AI", "ML", "AI/ML", "guessing", "math"],
-        modalTarget: "#portfolioModal2",
-        imageSrc: "assets/img/portfolio/dumbell.png"
-    },
-    {
-        keywords: ["matrix", "matrice", "linear algebra", "math", "science", "graph", "absolute error"],
-        modalTarget: "#portfolioModal3",
-        imageSrc: "assets/img/portfolio/matrix.png"
-    },
-    {
-        keywords: ["location", "landmark", "housing", "airbnb", "prediction", "science", "dataframe", "AI", "ML", "AI/ML"],
-        modalTarget: "#portfolioModal4",
-        imageSrc: "assets/img/portfolio/chicago.png"
-    },
-    {
         keywords: ["board", "multiplayer", "two-player", "LAN", "local"],
-        modalTarget: "#portfolioModal5",
+        modalTarget: "#portfolioModal2",
         imageSrc: "assets/img/portfolio/checkers.gif"
     },
     {
-        keywords: ["fitting", "marks", "math", "bias", "variance", "AI", "ML", "AI/ML", "error"],
-        modalTarget: "#portfolioModal6",
-        imageSrc: "assets/img/portfolio/perfectfit.png"
-    },
-    {
-        keywords: ["chess", "board", "two-player", "multiplayer", "AI/ML", "AI", "ML"],
-        modalTarget: "#portfolioModal7",
-        imageSrc: "assets/img/portfolio/chessboard.png"
-    },
-    {
-      keywords: ["matrix", "matrice", "linear algebra", "math", "science", "graph", "absolute error"],
-      modalTarget: "#portfolioModal8",
-      imageSrc: "assets/img/portfolio/matrix.png"
-    },
-    {
       keywords: ["sorting", "algorithm", "data", "visualization", "science"],
-      modalTarget: "#portfolioModal9",
+      modalTarget: "#portfolioModal3",
       imageSrc: "assets/img/portfolio/sorting.gif"
+    },
+    {
+      keywords: ["social", "media", "talk", "friends", "post", "instagram", "app"],
+      modalTarget: '#portfolioModal4',
+      imageSrc: "assets/img/portfolio/channel.jpg"
+    },
+    {
+      keywords: ["candy", "data", "science", "math", "colab", "plotting"],
+      modalTarget: '#portfolioModal5',
+      imageSrc: "assets/img/portfolio/candy.png"
+    },
+    {
+      keywords: ["data", "science", "math", "colab", "plotting", "AI", "ML", "AI/ML"],
+      modalTarget: '#portfolioModal6',
+      imageSrc: "assets/img/portfolio/hyper.png"
+    },
+    {
+      keywords: ["data", "science", "math", "colab", "plotting", "algorithm", "data", "visualization", "science", "tinder", "recommendation", "dating", "AI", "ML", "AI/ML"],
+      modalTarget: '#portfolioModal7',
+      imageSrc: "assets/img/portfolio/model.png"
     }
   ];
   
