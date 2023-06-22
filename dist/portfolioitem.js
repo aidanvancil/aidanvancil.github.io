@@ -34,6 +34,31 @@ var portfolioItems = [
       keywords: ["data", "science", "math", "colab", "plotting", "algorithm", "data", "visualization", "science", "tinder", "recommendation", "dating", "AI", "ML", "AI/ML"],
       modalTarget: '#portfolioModal7',
       imageSrc: "assets/img/portfolio/model.png"
+    },
+    {
+      keywords: ["WeTour", "app", "tourism", "travel", "guide", "cost", "fun", "adventure", "python", "apis"],
+      modalTarget: '#portfolioModal8',
+      imageSrc: "assets/img/portfolio/wetour.png"
+    },
+    {
+      keywords: ["Mezzo", "app", "spotify", "friends", "music", "react", "javascript", "node", "mongodb", "apis"],
+      modalTarget: '#portfolioModal9',
+      imageSrc: "assets/img/portfolio/mezzo.png"
+    },
+    {
+      keywords: ["C++", "Schematic", "hardware", "physical"],
+      modalTarget: '#portfolioModal10',
+      imageSrc: "assets/img/portfolio/arduino.png"
+    },
+    {
+      keywords: ["app", "hackathon", "AI/ML", "AI", "ML", "machine learning", "machine", "image", "computer vision"],
+      modalTarget: '#portfolioModal11',
+      imageSrc: "assets/img/portfolio/maskr.png"
+    },
+    {
+      keywords: ["app", "synonymy", "guessing", "game"],
+      modalTarget: '#portfolioModal12',
+      imageSrc: "assets/img/portfolio/syn.png"
     }
   ];
   

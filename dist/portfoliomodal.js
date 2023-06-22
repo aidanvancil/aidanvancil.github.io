@@ -181,6 +181,104 @@ const modalData = [
             '- Numpy',
             '- Scikit',
         ]
+    },
+    {
+        images: [
+            'assets/img/portfolio/wetour1.png'
+        ],
+        title: 'WeTour: Tourism App',
+        description: 'The website allows you to find tour guides in different cities and even become a tour guide yourself! You can make your preferences for your trip and express yourself with our profiles. You can even get notifications about your trip and access all these features by creating an account.',
+        id: '8',
+        link: 'https://devpost.com/software/wetour-ygu012',
+        techs: [
+            '- Cohere',
+            '- Django',
+            '- Github',
+            '- HTML5',
+            '- RESTful APIs',
+            '- TailwindCSS',
+            '- Twillio',
+            '- Google Maps',
+            '- Mapquest'
+        ]
+    },
+    {
+        images: [
+            'assets/img/portfolio/mezzo.png',
+            'assets/img/portfolio/mezzo1.png',
+            'assets/img/portfolio/mezzo2.png'
+        ],
+        title: 'Mezzo: Musical + Social Platform',
+        description: 'Mezzo is a twist on a typical musical application that helps users connect with both their friends and favorite artists. With Mezzo, you can discover new music and connect with like-minded people who share your musical interests. This application was created from a collaborative team of three within a 3-month timespan.',
+        id: '9',
+        link: 'https://github.com/NikhilSharma1234/Mezzo',
+        techs: [
+            '- Express.js',
+            '- React',
+            '- Node.js',
+            '- MongoDB',
+            '- TTD',
+            '- Github',
+            '- Version Control',
+            '- RESTful APIs',
+        ]
+    },
+    {
+        images: [
+            'assets/img/portfolio/arduino.png',
+        ],
+        title: 'C++/C Swamp Cooler',
+        description: 'The core of the project involves using an Arduino microcontroller to control various components, including a water pump, fan, and environmental sensors. The microcontroller regulates the flow of water to wet a porous cooling pad or medium, which is then exposed to a fan-driven airflow. As the air passes through the wet medium, it evaporates the water, resulting in a cooling effect that lowers the temperature of the surrounding air. The Arduino microcontroller plays a crucial role in automating the swamp cooler system. It monitors environmental conditions such as temperature and humidity using sensors and adjusts the water flow and fan speed accordingly to optimize cooling performance. The microcontroller can be programmed and customized to incorporate additional features such as timers, remote control functionality, or integration with smart home systems.',
+        id: '10',
+        link: 'https://github.com/aidanvancil/arduino_swamp_cooler',
+        techs: [
+            '- C++',
+            '- C',
+            '- Arduino',
+            '- Hardware Engineering',
+            '- Github',
+            '- Version Control',
+            '- Electrical Engineering'
+        ]
+    },
+    {
+        images: [
+            'assets/img/portfolio/maskr1.png',
+            'assets/img/portfolio/maskr2.png',
+            'assets/img/portfolio/maskr3.png',
+            'assets/img/portfolio/maskr4.png'
+        ],
+        title: 'maskr, Generative AI Tool',
+        description: 'Maskr leverages the cutting-edge capabilities of the OpenAI API to provide users with a seamless and intuitive image editing experience. The app offers a diverse set of editing features, including background removal, object manipulation, style transfer, and intelligent image generation. Using advanced machine learning algorithms, maskr enables users to effortlessly remove or replace backgrounds in photos. Whether you want to isolate the subject, place them in a different setting, or create artistic compositions, maskr and its background removal tool offers precision and flexibility.',
+        id: '11',
+        link: 'https://github.com/aidanvancil/maskr',
+        techs: [
+            '- Django',
+            '- RESTful APIs',
+            '- Generative AI',
+            '- Computer Vision',
+            '- Github',
+            '- Version Control',
+        ]
+    },
+    {
+        images: [
+            'assets/img/portfolio/syn1.png'
+        ],
+        title: 'Synonymy, Semantic Guessing Game',
+        description: 'Web-based game that has users guess the daily secret word based on how semantically close their other guesses are. This game relies on a hot/cold aspect to help users make a reliable choice.',
+        id: '12',
+        link: 'https://github.com/aidanvancil/Synonymy',
+        techs: [
+            '- Django',
+            '- Word2Vec',
+            '- OpenAI API',
+            '- Gensim',
+            '- NLP',
+            '- Figma',
+            '- TailwindCSS',
+            '- Javascript'
+        ]
     }
 ];
 
